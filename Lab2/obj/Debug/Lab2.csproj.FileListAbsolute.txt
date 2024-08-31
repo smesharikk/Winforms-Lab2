@@ -1,0 +1,22 @@
+D:\Уроки\Windows\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Уроки\Windows\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Уроки\Windows\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Уроки\Windows\Lab2\Lab2\obj\Debug\Lab2.FormChangeBackPanel.resources
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\bin\Debug\Lab2.exe.config
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\bin\Debug\Lab2.exe
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\bin\Debug\Lab2.pdb
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.FormChangeBackPanel.resources
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.exe
+D:\Уроки\Windows\Lab2 (без допа)\Lab2\obj\Debug\Lab2.pdb
